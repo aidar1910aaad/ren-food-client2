@@ -1,5 +1,6 @@
 export const Restaurants = [
     {
+        id: 1,
         img: "/assets/img.png",
         title: "MeatPoint",
         star: 4.8,
@@ -9,7 +10,8 @@ export const Restaurants = [
         cat: ["Халал", "Халал", "Халал"]
     },
     {
-        img: "",
+        id: 2,
+        img: "/assets/img.png",
         title: "MeatPoint",
         star: 4.5,
         location: "Uly Dala Avenue 11/3",
@@ -18,7 +20,8 @@ export const Restaurants = [
         cat: ["Халал", "Халал", "Халал"]
     },
     {
-        img: "",
+        id: 3,
+        img: "/assets/img.png",
         title: "MeatPoint",
         star: 4.5,
         location: "Uly Dala Avenue 11/3",
@@ -27,7 +30,8 @@ export const Restaurants = [
         cat: ["Халал", "Халал", "Халал"]
     },
     {
-        img: "",
+        id: 4,
+        img: "/assets/img.png",
         title: "MeatPoint",
         star: 4.5,
         location: "Uly Dala Avenue 11/3",
@@ -36,7 +40,8 @@ export const Restaurants = [
         cat: ["Халал", "Халал", "Халал"]
     },
     {
-        img: "",
+        id: 5,
+        img: "/assets/img.png",
         title: "MeatPoint",
         star: 4.5,
         location: "Uly Dala Avenue 11/3",
@@ -45,7 +50,8 @@ export const Restaurants = [
         cat: ["Халал", "Халал", "Халал"]
     },
     {
-        img: "",
+        id: 6,
+        img: "/assets/img.png",
         title: "MeatPoint",
         star: 4.5,
         location: "Uly Dala Avenue 11/3",
@@ -54,7 +60,8 @@ export const Restaurants = [
         cat: ["Халал", "Халал", "Халал"]
     },
     {
-        img: "",
+        id: 7,
+        img: "/assets/img.png",
         title: "MeatPoint",
         star: 4.5,
         location: "Uly Dala Avenue 11/3",
@@ -63,7 +70,9 @@ export const Restaurants = [
         cat: ["Халал", "Халал", "Халал"]
     },
     {
-        img: "",
+        id: 8,
+        img: "/assets/img.png",
+
         title: "MeatPoint",
         star: 4.5,
         location: "Uly Dala Avenue 11/3",
